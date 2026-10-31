@@ -20,6 +20,16 @@
 
 [源码](https://github.com/huashaoya/otto-choreographer) · [设计文档](https://github.com/huashaoya/otto-choreographer/blob/main/DESIGN.md)
 
+### Daily Worlds
+
+<img src="https://raw.githubusercontent.com/huashaoya/daily-worlds/main/docs/screenshot.jpg" width="560" alt="Daily Worlds 界面" />
+
+每天自动生成 9 个随机世界的页面。3×3 的窗格各展示一个 AI 生成的世界和一段配文故事，点进任意细节可以继续放大探索，再用「视角变换」或「故事延伸」生成新的分支 —— 探索路径会自己长成一棵树，随时能回看走过哪里。
+
+Vue 3 + Vite 前端，Node 后端接豆包与 MiniMax 的图像和文本模型。
+
+[源码](https://github.com/huashaoya/daily-worlds) · [演示视频](https://www.bilibili.com/video/BV139Gm6REkn/)
+
 ### flower3D · 16★
 
 基于 Three.js + Cannon.js 的 Vue 3 组件库，把世界、相机、碰撞体、动画封装成声明式组件，写 3D 场景像写普通模板。
