@@ -46,11 +46,4 @@ TypeScript · JavaScript · Vue 3 · Three.js · Node.js · Java · Python · ES
 
 ---
 
-## 最近在做什么
-
-- **2026-10** 重做 otto-choreographer 的视觉世界，13 次提交，全量回归（静态 27 项 + 五套浏览器用例）通过
-- 正在把「AI Agent 真正干活的链路」拆成可复用的东西
-
----
-
 <sub>视频都发在 [B站](https://space.bilibili.com/1033979526)。</sub>
