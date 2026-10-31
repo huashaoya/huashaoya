@@ -1,9 +1,56 @@
-# 花哨呀i的个人网站
+# 花哨呀i
+
+**能用 AI 把想法做成真东西的开发者。** 写前端、做 3D、折腾 ESP32。
+
+白天写业务代码，晚上造自己的东西 —— 看着花哨，全是硬功夫。
+
+[B站](https://space.bilibili.com/1033979526) · [Otto 编舞台](https://github.com/huashaoya/otto-choreographer) · [flower-ui](https://huashaoya.github.io/flower-ui/)
+
+---
+
+## 作品
+
+### Otto 在线编舞台
+
+<img src="https://raw.githubusercontent.com/huashaoya/otto-choreographer/main/docs/screenshot.png" width="560" alt="Otto 在线编舞台 3D 界面" />
+
+单文件 HTML、零依赖的六轴机器人 3D 编舞工具。拖动六个滑块实时预览姿态，用关键帧和振荡帧编排动作，自动生成固件可直接执行的 `servo_sequences` JSON，再通过 WebSocket 下发给真机。
+
+3D 模型按实物 69×110×115 mm 比例装配，内嵌原始 3MF 网格。整份应用 4 MB，双击即开 —— 不需要 npm、构建，也不需要本地服务。
+
+[源码](https://github.com/huashaoya/otto-choreographer) · [设计文档](https://github.com/huashaoya/otto-choreographer/blob/main/DESIGN.md)
+
+### flower3D · 16★
+
+基于 Three.js + Cannon.js 的 Vue 3 组件库，把世界、相机、碰撞体、动画封装成声明式组件，写 3D 场景像写普通模板。
+
+[源码](https://github.com/huashaoya/flower3D) · [演示视频](https://www.bilibili.com/video/BV1dF4m1T7ua/)
+
+### flower-ui · 7★
+
+Vue 组件库，字节跳动前端青训营大作业。
+
+[在线预览](https://huashaoya.github.io/flower-ui/) · [源码](https://github.com/huashaoya/flower-ui)
+
+### 医疗辅助系统 · 8★
+
+基于癌症治疗的医疗辅助系统，计算机设计大赛参赛作品，Vue 3 + TypeScript 全栈实现。
+
+[源码](https://github.com/huashaoya/medical-assistance)
+
+---
 
 ## 技术栈
-+ webpack5 
-+ vue3
-+ TypeScript
-+ flower3d
-+ lodash
-+ jquery
+
+TypeScript · JavaScript · Vue 3 · Three.js · Node.js · Java · Python · ESP-IDF / ESP32
+
+---
+
+## 最近在做什么
+
+- **2026-10** 重做 otto-choreographer 的视觉世界，13 次提交，全量回归（静态 27 项 + 五套浏览器用例）通过
+- 正在把「AI Agent 真正干活的链路」拆成可复用的东西
+
+---
+
+<sub>视频都发在 [B站](https://space.bilibili.com/1033979526)。</sub>
