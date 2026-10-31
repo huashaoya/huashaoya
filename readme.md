@@ -18,7 +18,7 @@
 
 3D 模型按实物 69×110×115 mm 比例装配，内嵌原始 3MF 网格。整份应用 4 MB，双击即开 —— 不需要 npm、构建，也不需要本地服务。
 
-[源码](https://github.com/huashaoya/otto-choreographer) · [设计文档](https://github.com/huashaoya/otto-choreographer/blob/main/DESIGN.md)
+[在线试玩](https://huashaoya.github.io/otto-choreographer/) · [源码](https://github.com/huashaoya/otto-choreographer) · [设计文档](https://github.com/huashaoya/otto-choreographer/blob/main/DESIGN.md)
 
 ### Daily Worlds
 
