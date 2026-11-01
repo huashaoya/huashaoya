@@ -1,6 +1,6 @@
 # 花哨呀i
 
-** 前端、 3D、 ESP32。
+前端、 3D、 ESP32。
 
 [B站](https://space.bilibili.com/1033979526) · [Otto 编舞台](https://github.com/huashaoya/otto-choreographer) · [flower-ui](https://huashaoya.github.io/flower-ui/)
 
