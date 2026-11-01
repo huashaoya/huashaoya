@@ -1,8 +1,6 @@
 # 花哨呀i
 
-**能用 AI 把想法做成真东西的开发者。** 写前端、做 3D、折腾 ESP32。
-
-白天写业务代码，晚上造自己的东西 —— 看着花哨，全是硬功夫。
+** 前端、 3D、 ESP32。
 
 [B站](https://space.bilibili.com/1033979526) · [Otto 编舞台](https://github.com/huashaoya/otto-choreographer) · [flower-ui](https://huashaoya.github.io/flower-ui/)
 
